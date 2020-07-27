@@ -1,5 +1,5 @@
 # DAND-Project-5: wrangling data of WeRateDogs twiiter account.
-The project conducted A/B testing of group user conversions between old and new wepage.
+Real-world data rarely comes clean. Using Python and its libraries, I gathered data from a variety of sources and in a variety of formats, assessed its quality and tidiness, then cleaned it. This is called data wrangling.I documented my wrangling efforts in a Jupyter Notebook, plus showcased them through analyses and visualizations using Python (and its libraries).
 
 # Gathering steps
 1. Enhanced Twitter Archive
